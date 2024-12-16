@@ -49,4 +49,4 @@ def main(page:ft.Page):
         send_button
         ])
     )       
-ft.app(target=main,assets_dir='assets/')    
+ft.app(target=main)    
